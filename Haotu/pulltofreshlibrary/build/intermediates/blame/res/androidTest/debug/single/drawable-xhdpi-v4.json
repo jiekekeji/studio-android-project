@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_flip.png",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/indicator_arrow.png",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/indicator_arrow.png"
+    }
+]

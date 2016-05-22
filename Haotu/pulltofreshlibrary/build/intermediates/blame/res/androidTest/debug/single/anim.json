@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml"
+    }
+]

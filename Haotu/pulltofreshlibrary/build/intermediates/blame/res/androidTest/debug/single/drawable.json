@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/jack/myproject/studio-android-project/Haotu/pulltofreshlibrary/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    }
+]
