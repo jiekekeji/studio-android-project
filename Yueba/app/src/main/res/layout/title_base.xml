@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@drawable/shape_border_blue"
+    tools:context=".activity.MainActivity">
+
+    <ImageView
+        android:id="@+id/back_iv"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerVertical="true"
+        android:contentDescription="返回图标"
+        android:scaleType="center"
+        android:src="@drawable/ic_back" />
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:contentDescription="页面的标题" />
+
+    <TextView
+        android:id="@+id/option_tv"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="页面其他操作"
+        android:gravity="center" />
+
+</RelativeLayout>
