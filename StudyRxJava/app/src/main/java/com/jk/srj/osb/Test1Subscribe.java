@@ -14,22 +14,16 @@ public class Test1Subscribe implements Observable.OnSubscribe<String> {
 
     @Override
     public void call(Subscriber<? super String> subscriber) {
-        Log.i(TAG, "thread:" + Thread.currentThread());
-        subscriber.onStart();
-
+        Log.i(TAG, "call thread:" + Thread.currentThread().getId());
         try {
-            Thread.sleep(30*1000);
+            Thread.sleep(3*1000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
         subscriber.onNext("111111111111");
-        Log.i(TAG, "thread:" + Thread.currentThread());
         subscriber.onNext("222222222222");
         subscriber.onNext("333333333333");
         subscriber.onNext("444444444444");
         subscriber.onNext("555555555555");
-
-        subscriber.onCompleted();
     }
 }
